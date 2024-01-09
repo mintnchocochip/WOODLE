@@ -1,7 +1,5 @@
-#Download the zip file to a directory 
-#Go to the folder where you saved the file and copy the address
-#Open up terminal and go to that address
-#Just run the woodle file.
+#Download and extract the zip file to desired directory 
+#Double click on the woodle file
 
 #To check your history or score 
 #Open User_records.csv file in exel
