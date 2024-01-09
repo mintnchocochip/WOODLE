@@ -4,7 +4,7 @@ import sys, random,Instructions
 from clue_giver import clues as clue_giver
 from Recorder import recorder as recorder
 
-sys.path.append(r"F:\WORDLE Final\WORDLE")
+sys.path.append(r"Woodle-main")
 
 social_share,x,repeat_stopper = [],[],[]
 
